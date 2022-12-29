@@ -1,0 +1,17 @@
+{
+  "name": "@turbo-xecep/sub",
+  "version": "1.0.0",
+  "source": "src/index.ts",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "types": "dist/types.d.ts",
+  "files": [
+    "dist"
+  ],
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "parcel build",
+    "dev": "parcel watch"
+  }
+}
