@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "private": false,
+  "private": true,
   "workspaces": [
     "packages/*"
   ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "devDependencies": {
     "@parcel/packager-ts": "2.8.2",
     "@parcel/transformer-typescript-types": "2.8.2",

@@ -18,5 +18,9 @@
     "build": "parcel build",
     "dev": "parcel watch"
   },
-  "gitHead": "f7d8c662303ad58d7e868b03ceaeabbb1ba49fdb"
+  "gitHead": "17ff68807b9f2a50a1cfd1540692f43708e4533a",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
 }
