@@ -1,6 +1,6 @@
 {
   "name": "@lerna-xecep/calculator",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "source": "src/index.ts",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -11,8 +11,8 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "@lerna-xecep/add": "^0.1.0",
-    "@lerna-xecep/sub": "^0.1.0"
+    "@lerna-xecep/add": "^0.1.2",
+    "@lerna-xecep/sub": "^0.1.2"
   },
   "scripts": {
     "build": "parcel build",
