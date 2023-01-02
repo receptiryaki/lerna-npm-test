@@ -18,5 +18,5 @@
     "build": "parcel build",
     "dev": "parcel watch"
   },
-  "gitHead": "a6f4bc685f682b2a125b5209b779d5e66ff1c5b9"
+  "gitHead": "f7d8c662303ad58d7e868b03ceaeabbb1ba49fdb"
 }
