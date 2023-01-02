@@ -1,12 +1,12 @@
-import $7lerj$turboxecepadd from "@turbo-xecep/add";
-import $7lerj$turboxecepsub from "@turbo-xecep/sub";
+import $7lerj$lernaxecepadd from "@lerna-xecep/add";
+import $7lerj$lernaxecepsub from "@lerna-xecep/sub";
 
 
 
 function $c38a778fa493a840$var$calculator(a, b, o) {
     const operation = {
-        add: $7lerj$turboxecepadd,
-        sub: $7lerj$turboxecepsub
+        add: $7lerj$lernaxecepadd,
+        sub: $7lerj$lernaxecepsub
     }[o];
     return operation(a, b);
 }

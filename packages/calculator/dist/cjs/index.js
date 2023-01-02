@@ -1,5 +1,5 @@
-var $eVuXh$turboxecepadd = require("@turbo-xecep/add");
-var $eVuXh$turboxecepsub = require("@turbo-xecep/sub");
+var $eVuXh$lernaxecepadd = require("@lerna-xecep/add");
+var $eVuXh$lernaxecepsub = require("@lerna-xecep/sub");
 
 function $parcel$interopDefault(a) {
   return a && a.__esModule ? a.default : a;
@@ -18,8 +18,8 @@ $parcel$export(module.exports, "default", () => $c38bf3b1bf3718d4$export$2e2bcd8
 
 function $c38bf3b1bf3718d4$var$calculator(a, b, o) {
     const operation = {
-        add: ($parcel$interopDefault($eVuXh$turboxecepadd)),
-        sub: ($parcel$interopDefault($eVuXh$turboxecepsub))
+        add: ($parcel$interopDefault($eVuXh$lernaxecepadd)),
+        sub: ($parcel$interopDefault($eVuXh$lernaxecepsub))
     }[o];
     return operation(a, b);
 }

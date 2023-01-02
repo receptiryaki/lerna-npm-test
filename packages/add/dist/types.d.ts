@@ -5,6 +5,5 @@
  * @param {number} b - Another number to add.
  */
 export default function add(a: number, b: number): number;
-export default add;
 
 //# sourceMappingURL=types.d.ts.map

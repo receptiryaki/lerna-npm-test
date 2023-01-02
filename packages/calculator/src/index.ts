@@ -1,5 +1,5 @@
-import add from '@turbo-xecep/add';
-import sub from '@turbo-xecep/sub';
+import add from '@lerna-xecep/add';
+import sub from '@lerna-xecep/sub';
 
 function calculator(a: number, b: number, o: 'add' | 'sub'): number {
   const operation = { add, sub }[o];

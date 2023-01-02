@@ -4,8 +4,6 @@
  * @param {number} a - Your number.
  * @param {number} b - To subtract.
  */
-function sub(a: number, b: number): number {
+export default function sub(a: number, b: number): number {
   return a - b
 }
-
-export default sub;

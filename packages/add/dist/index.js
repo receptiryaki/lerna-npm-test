@@ -13,10 +13,9 @@ $parcel$export(module.exports, "default", () => $18c34afca93cb139$export$2e2bcd8
  * @constructor
  * @param {number} a - A number.
  * @param {number} b - Another number to add.
- */ function $18c34afca93cb139$var$add(a, b) {
+ */ function $18c34afca93cb139$export$2e2bcd8739ae039(a, b) {
     return a + b;
 }
-var $18c34afca93cb139$export$2e2bcd8739ae039 = $18c34afca93cb139$var$add;
 
 
 //# sourceMappingURL=index.js.map
