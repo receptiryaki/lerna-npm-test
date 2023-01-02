@@ -8,7 +8,7 @@
     "dist"
   ],
   "license": "MIT",
-  "private": true,
+  "private": false,
   "scripts": {
     "build": "parcel build",
     "dev": "parcel watch"

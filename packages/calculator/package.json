@@ -17,5 +17,6 @@
   "scripts": {
     "build": "parcel build",
     "dev": "parcel watch"
-  }
+  },
+  "gitHead": "a6f4bc685f682b2a125b5209b779d5e66ff1c5b9"
 }
