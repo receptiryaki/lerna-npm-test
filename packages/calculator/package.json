@@ -9,7 +9,7 @@
     "dist"
   ],
   "license": "MIT",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@lerna-xecep/add": "^0.1.0",
     "@lerna-xecep/sub": "^0.1.0"
